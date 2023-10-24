@@ -1,0 +1,5 @@
+jackie-chan-confused.jpg combine_jackie.jpg opencv combine `
+Lenna.png combine_Lenna.jpg opencv combine `
+shrek-gallery-3.jpg combine_shrek.jpg opencv combine `
+baboon.pgm combine_baboon.jpg opencv combine ` 
+11.jpg combine_11.jpg opencv combine `

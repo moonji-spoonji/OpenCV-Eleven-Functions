@@ -1,0 +1,7 @@
+jackie-chan-confused.jpg otsu_jackie.jpg opencv otsu '
+Lenna.png otsu_Lenna.jpg opencv otsu '
+shrek-gallery-3.jpg otsu_shrek.jpg opencv otsu '
+baboon.pgm otsu_baboon.jpg opencv otsu '
+11.jpg otsu_11.jpg opencv otsu '
+qrCode_Lenna.jpg qrCode_Lenna.jpg opencv QRcode 
+qrCodePre_Lenna.jpg qrCodePre_Lenna.jpg opencv QRcodepre 

@@ -1,0 +1,5 @@
+jackie-chan-confused.jpg otsu_histo_jackie.jpg opencv otsuhisto '
+Lenna.png otsu_histo_Lenna.jpg opencv otsuhisto
+shrek-gallery-3.jpg otsu_histo_shrek.jpg opencv otsuhisto '
+baboon.pgm otsu_histo_baboon.jpg opencv otsuhisto '
+11.jpg otsu_histo_11.jpg opencv otsuhisto '

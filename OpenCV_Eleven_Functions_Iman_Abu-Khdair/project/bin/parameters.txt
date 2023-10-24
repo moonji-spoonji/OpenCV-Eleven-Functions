@@ -1,0 +1,5 @@
+jackie-chan-confused.jpg histo_stretch_jackie.jpg opencv histostretch
+Lenna.png histo_stretch_Lenna.jpg opencv histostretch
+shrek-gallery-3.jpg histo_stretch_shrek.jpg opencv histostretch
+11.jpg histo_stretch_11.jpg opencv histostretch
+baboon.pgm histo_stretch_baboon.jpg opencv histostretch

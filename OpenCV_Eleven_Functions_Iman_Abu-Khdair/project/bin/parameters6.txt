@@ -1,0 +1,5 @@
+jackie-chan-confused.jpg otsu_gau_jackie.jpg opencv otsugau `
+Lenna.png otsu_gau_Lenna.jpg opencv otsugau `
+shrek-gallery-3.jpg otsu_gau_shrek.jpg opencv otsugau `
+baboon.pgm otsu_gau_baboon.jpg opencv otsugau ` 
+11.jpg otsu_gau_11.jpg opencv otsugau `

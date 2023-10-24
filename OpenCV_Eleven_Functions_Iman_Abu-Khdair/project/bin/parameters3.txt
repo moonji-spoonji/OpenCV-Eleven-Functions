@@ -1,0 +1,4 @@
+golf.pgm houghcir_golf.jpg opencv houghcir
+soccerball.pgm houghcir_soccer.jpg opencv houghcir
+golf.pgm cannyhough_golf6.jpg opencv cannyhough
+golf.pgm smooth_golf3.jpg opencv smoothedge
